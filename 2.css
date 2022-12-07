@@ -1,0 +1,32 @@
+
+.s {
+    height:auto; 
+    width: 140px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 7vw;
+    left: 0;
+    background-color:beige; 
+    overflow-x: hidden; 
+    padding-top: 0px;
+  }
+  .s a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .s a:hover {
+    color:brown;
+  }
+div p{text-align: center;padding: top 8px; ;}
+footer{
+	clear:both;
+	display:block;
+	background-color: green;
+	color:#FFFFFF;
+	text-align:center;
+	padding: 20px 0px;bottom: 0;
+}
